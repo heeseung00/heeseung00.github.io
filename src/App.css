@@ -1,0 +1,24 @@
+.box {
+  border: 1px solid red;
+  width: 100px;
+  height: 100px;
+}
+
+.todo-item {
+  width: 500px;
+  height: 200px;
+  border: 1px solid #222;
+}
+
+.list-title {
+  cursor: pointer;
+}
+
+.likes span:nth-child(1) {
+  cursor: pointer;
+}
+
+.Modal {
+  border: 1px solid #222;
+  background-color: rgb(228, 228, 228);
+}
