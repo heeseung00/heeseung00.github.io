@@ -10,6 +10,7 @@ import Modal from './component/Modal';
 // 3. 글자 정렬 버튼을 누르면 가나다 순으로 글자 정렬
 // 4. 글목록 제목을 누르면 글목록의 데이터를 모달에 전달
 // 5. input 글입력 및 글삭제 기능
+// 6. 완성된 파일은 Github Pages로 배포
 
 function App() {
     // 글목록 배열 담기
